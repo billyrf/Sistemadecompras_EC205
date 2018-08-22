@@ -1,0 +1,5 @@
+Veiculo
+Carro
+10.0
+Preto
+*

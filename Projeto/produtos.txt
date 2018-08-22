@@ -1,0 +1,10 @@
+Veiculo
+test
+2.0
+test
+*
+Moda
+test
+10.0
+test
+*
